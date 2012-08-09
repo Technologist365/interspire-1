@@ -1,0 +1,3 @@
+[submodule "email.marketer/addons"]
+	path = email.marketer/addons
+	url = git@github.com:maborak/iem-addons.git
