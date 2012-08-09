@@ -23,3 +23,8 @@ function ShowTab(T) {
 	}
 }
 #END_BLOCK_TRIGGER#
+#START_BLOCK_JQUERY#
+<link type="text/css" href="addons/installer/third/jquery-ui/css/smoothness/jquery-ui-1.7.3.custom.css" rel="stylesheet" />
+<script type="text/javascript" src="addons/installer/third/jquery-ui/js/jquery-ui-1.7.3.custom.min.js"></script>
+<script type="text/javascript" src="addons/installer/includes/js/js.js"></script>
+#END_BLOCK_JQUERY#

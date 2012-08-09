@@ -13,5 +13,14 @@ $files[] = array(
             'line'=>2546,
             'insert'=>'i',
             'content'=>'TRIGGER')));
+$files[] = array(
+		'fuse'=>false,
+		'type'=>'tpl',
+		'file'=>IEM_PATH . '/templates/header.tpl',
+		'data'=>array(
+				array(
+						'line'=>23,
+						'insert'=>'i',
+						'content'=>'JQUERY')));
 
 ?>
